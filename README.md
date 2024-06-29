@@ -1,5 +1,9 @@
 # superv-aider
 
 ```bash
-uv pip install -r pyproject.toml
+pip install uv
+```
+
+```bash
+uv venv .venv && uv pip install -r pyproject.toml
 ```

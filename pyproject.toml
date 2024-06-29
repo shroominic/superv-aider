@@ -5,6 +5,7 @@ description = "Add your description here"
 authors = [{ name = "Shroominic", email = "contact@shroominic.com" }]
 dependencies = [
     "aider-chat>=0.40.6",
+    "rich>=13.7.1",
 ]
 readme = "README.md"
 requires-python = ">= 3.11"
